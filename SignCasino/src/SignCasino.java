@@ -3,7 +3,7 @@ import java.util.logging.Logger;
 public class SignCasino extends Plugin{
 	Logger log = Logger.getLogger("Minecraft");
 	String name = "SignCasino";
-	String version = "1.0.1";
+	String version = "1.0.2";
 	String author = "darkdiplomat";	
 	
 	SCData SCD;

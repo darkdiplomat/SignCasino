@@ -280,7 +280,7 @@ public class SCData {
 							}
 							
 							if(AllSignCount.containsKey(NST[0])){
-								count = AllSignCount.get(NST)+amount;
+								count = AllSignCount.get(NST[0])+amount;
 								AllSignCount.put(NST[0], count);
 							}
 							else{
